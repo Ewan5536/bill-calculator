@@ -15,7 +15,7 @@ class Electricity extends Component{
      }
      electricityAmount(e){
          console.log(this.state.unitsUsed);
-         this.setState({electricityAmount: (((100 * 10) + ((this.state.unitsUsed - 100) * 20))/100) });
+         this.setState({electricityAmount: (((100 * 10) + ((this.state.unitsUsed - 50) * 20))/100) });
      }
      reset() {
         document.getElementsByTagName('input')[1].value = '';
