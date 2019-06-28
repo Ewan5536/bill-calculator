@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bill-calculator/static/css/main.d0b8da68.chunk.css",
+    "main.js": "/bill-calculator/static/js/main.b9682ce7.chunk.js",
+    "main.js.map": "/bill-calculator/static/js/main.b9682ce7.chunk.js.map",
+    "runtime~main.js": "/bill-calculator/static/js/runtime~main.16cb50b2.js",
+    "runtime~main.js.map": "/bill-calculator/static/js/runtime~main.16cb50b2.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/bill-calculator/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/bill-calculator/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/bill-calculator/index.html",
+    "precache-manifest.f5311ee3c6fb405035c2413e4c4f7ecc.js": "/bill-calculator/precache-manifest.f5311ee3c6fb405035c2413e4c4f7ecc.js",
+    "service-worker.js": "/bill-calculator/service-worker.js",
+    "static/css/main.d0b8da68.chunk.css.map": "/bill-calculator/static/css/main.d0b8da68.chunk.css.map"
+  }
+}
